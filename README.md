@@ -3,6 +3,7 @@
 This project enables deployment of a Mattermost server in a multi-node production configuration using Docker.
 
 [![Build Status](https://travis-ci.org/mattermost/mattermost-docker.svg?branch=master)](https://travis-ci.org/mattermost/mattermost-docker)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsstine%2Fmattermost-docker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsstine%2Fmattermost-docker?ref=badge_shield)
 
 Notes:
 - The default Mattermost edition for this repo has changed from team edition to enterprise edition. Please see [Choose Edition](#choose-edition-to-install) section.
@@ -168,3 +169,7 @@ For the server configurations, see [prod-ubuntu.rst] of mattermost.
 [docker]: http://docs.docker.com/engine/installation/
 [docker-compose]: https://docs.docker.com/compose/install/
 [prod-ubuntu.rst]: https://docs.mattermost.com/install/install-ubuntu-1404.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsstine%2Fmattermost-docker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsstine%2Fmattermost-docker?ref=badge_large)
